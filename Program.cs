@@ -1,0 +1,12 @@
+﻿Console.WriteLine("nome das cidades do litoral sul de Sao Paulo");
+Console.WriteLine("Santos");
+Console.WriteLine("Praia Grande");
+Console.WriteLine("Guaruja");
+Console.WriteLine("Sao Vicente");
+Console.WriteLine("Mongagua");
+Console.WriteLine("Itanhaem");
+Console.WriteLine("Peruibe");
+Console.WriteLine("Iguape");
+Console.WriteLine("Ilha Comprida");
+Console.WriteLine("Cananeia");
+Console.WriteLine("Bertioga");
